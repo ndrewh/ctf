@@ -9,6 +9,7 @@ pwn
 - [hwdbg](https://github.com/cscosu/ctf-writeups/tree/master/2021/cakectf/hwdbg) (CakeCTF 2021)
 - [not_so_tiger](https://github.com/cscosu/ctf-writeups/tree/master/2021/cakectf/not_so_tiger) (CakeCTF 2021)
 - [mooosl](https://github.com/cscosu/ctf-writeups/tree/master/2021/def_con_quals/mooosl) (DEFCON Quals 2021)
+- [word_games](https://github.com/cscosu/ctf-writeups/tree/master/2021/csaw_quals/word_games) (CSAW CTF Quals 2021)
 
 rev
 
