@@ -15,6 +15,9 @@ rev
 
 - [mongoose mayhem](https://github.com/cscosu/ctf-writeups/tree/master/2021/hack_a_sat/mongoose_mayhem) (Hack-A-Sat 2)
 
+web
+
+- [shitty blog](https://github.com/cscosu/ctf-writeups/tree/master/2021/hxp_ctf/shitty-blog) (hxp CTF 2021)
 
 
 
@@ -22,4 +25,4 @@ Other challenges I've solved and want to do a writeup but haven't had time:
 
 - weather (rev, Google CTF 2021)
 - rp2sm (rev, redpwnCTF 2021)
-- gelcode-2 (pwn, redpwnCTF 2021)
+- empires / deserts (browser pwn, redpwnCTF 2021)
