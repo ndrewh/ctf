@@ -2,7 +2,7 @@
 
 Writeups for CTF challenges I've solved
 
-Many of these are in my [team's writeup repo](https://github.com/cscosu/ctf-writeups) and I'll just link them here.
+Many of these are in my [undergrad team's writeup repo](https://github.com/cscosu/ctf-writeups) and I'll just link them here.
 
 pwn
 
@@ -11,6 +11,7 @@ pwn
 - [mooosl](https://github.com/cscosu/ctf-writeups/tree/master/2021/def_con_quals/mooosl) (DEFCON Quals 2021)
 - [word_games](https://github.com/cscosu/ctf-writeups/tree/master/2021/csaw_quals/word_games) (CSAW CTF Quals 2021)
 - [sandboxgrind](https://github.com/cscosu/ctf-writeups/tree/master/2021/hxp_ctf/sandboxgrind) (hxp CTF 2021)
+- [unsafe-linking](https://github.com/ndrewh/ctf/tree/master/csaw_q_2022/unsafe-linking/)
 
 rev
 
