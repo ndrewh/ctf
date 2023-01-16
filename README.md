@@ -13,10 +13,12 @@ pwn
 - [sandboxgrind](https://github.com/cscosu/ctf-writeups/tree/master/2021/hxp_ctf/sandboxgrind) (hxp CTF 2021)
 - [unsafe-linking](https://github.com/ndrewh/ctf/tree/master/csaw_q_2022/unsafe-linking/) (CSAW CTF Quals 2022)
 - [smoothie operator](https://ctf.andrewh.tech/2022/csaw-finals-smoothie/) (CSAW CTF Finals 2022)
+- [hardened redis](https://github.com/pwning/public-writeup/tree/master/rwctf2023/pwn_hardenedredis) (Real World CTF 2023)
 
 rev
 
 - [mongoose mayhem](https://github.com/cscosu/ctf-writeups/tree/master/2021/hack_a_sat/mongoose_mayhem) (Hack-A-Sat 2)
+- Author writeup: [osu?](https://ctf.andrewh.tech/2022/buckeyectf-osu/) (BuckeyeCTF 2022)
 
 web
 
