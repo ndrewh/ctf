@@ -1,5 +1,7 @@
 # CTF Writeups
 
+#### update: more recent writeups are at [fastb.in](https://fastb.in)
+
 Writeups for CTF challenges I've solved
 
 Many of these are in my [undergrad team's writeup repo](https://github.com/cscosu/ctf-writeups) and I'll just link them here.
